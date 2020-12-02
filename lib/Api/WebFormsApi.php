@@ -312,7 +312,7 @@ class WebFormsApi
         }
 
 
-        $resourcePath = '/api/v1/webForms/{id}';
+        $resourcePath = '/api/v1/WebForms/{id}';
         $formParams = [];
         $queryParams = [];
         $headerParams = [];
